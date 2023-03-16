@@ -1,0 +1,7 @@
+com/example/musicaProjeto/service/MusicaService.class
+com/example/musicaProjeto/repository/GeneroRepository.class
+com/example/musicaProjeto/controller/GeneroController.class
+com/example/musicaProjeto/repository/MusicaRepository.class
+com/example/musicaProjeto/controller/MusicaController.class
+com/example/musicaProjeto/dto/CriaGenero.class
+com/example/musicaProjeto/dto/CriaMusica.class

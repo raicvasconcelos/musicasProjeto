@@ -1,0 +1,8 @@
+/home/wsl/git/LetsCode_M4/musicaProjeto/src/main/java/com/example/musicaProjeto/entity/Musica.java
+/home/wsl/git/LetsCode_M4/musicaProjeto/src/main/java/com/example/musicaProjeto/entity/Playlist.java
+/home/wsl/git/LetsCode_M4/musicaProjeto/src/main/java/com/example/musicaProjeto/controller/PessoaController.java
+/home/wsl/git/LetsCode_M4/musicaProjeto/src/main/java/com/example/musicaProjeto/repository/PessoaRepository.java
+/home/wsl/git/LetsCode_M4/musicaProjeto/src/main/java/com/example/musicaProjeto/entity/Pessoa.java
+/home/wsl/git/LetsCode_M4/musicaProjeto/src/main/java/com/example/musicaProjeto/MusicaProjetoApplication.java
+/home/wsl/git/LetsCode_M4/musicaProjeto/src/main/java/com/example/musicaProjeto/dto/CriaPessoa.java
+/home/wsl/git/LetsCode_M4/musicaProjeto/src/main/java/com/example/musicaProjeto/entity/Genero.java
